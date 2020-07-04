@@ -1,0 +1,36 @@
+{
+  "name": "@ladjs/gulp-envify",
+  "description": "Gulp plugin for envify without browserify (maintained fork).",
+  "version": "1.0.0",
+  "author": "Tomas Hanacek",
+  "bugs": {
+    "url": "https://github.com/ladjs/gulp-envify/issues"
+  },
+  "dependencies": {
+    "loose-envify": "^1.4.0",
+    "plugin-error": "^1.0.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.2",
+    "mocha": "^2.3.3",
+    "vinyl": "^1.0.0"
+  },
+  "homepage": "https://github.com/ladjs/gulp-envify#readme",
+  "keywords": [
+    "envify",
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladjs/gulp-envify.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
