@@ -1,7 +1,7 @@
 {
   "name": "@ladjs/gulp-envify",
   "description": "Gulp plugin for envify without browserify (maintained fork).",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Tomas Hanacek",
   "bugs": {
     "url": "https://github.com/ladjs/gulp-envify/issues"
